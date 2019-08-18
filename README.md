@@ -2,6 +2,15 @@
 
 Here is the accompanying code and related data used during [my talk at PyBay 2019](https://pybay.com/speaker/alark-joshi/).
 
+## Python visualization libraries used
+1. [Altair](https://altair-viz.github.io/)
+2. [Matplotlib](https://matplotlib.org/)
+3. [Seaborn](https://seaborn.pydata.org/)
+4. [Plotly](https://plot.ly/)
+5. [geoplotlib](https://github.com/andrea-cuttone/geoplotlib)
+
+
+
 ## Resources
 
 1. Data Visualization Techniques
@@ -14,5 +23,6 @@ Here is the accompanying code and related data used during [my talk at PyBay 201
 4. [Grad Data Visualization course](https://www.cs.usfca.edu/~apjoshi/cs686-grad-vis) at the University of San Francisco
 5. [Data Visualization Society](https://www.datavisualizationsociety.com/)
 6. [The best stats you've ever seen - TED talk](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) by Hans Rosling
+7. [We need more interactive data visualization tools for the web in Python](https://medium.com/@alark/we-need-more-interactive-data-visualization-tools-for-the-web-in-python-ad80ec3f440e)
 
 
