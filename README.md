@@ -1,6 +1,6 @@
 # Effective Visual Representations in Python at PyBay 2019 
 
-Here is the accompanying code and data use during my talk at PyBay 2019. 
+Here is the accompanying code and related data used during my talk at PyBay 2019.
 
 ## Resources
 
@@ -9,3 +9,5 @@ Here is the accompanying code and data use during my talk at PyBay 2019.
 3. [visualisingdata.com](https://www.visualisingdata.com/) by Andy Kirk 
 4. [Grad Data Visualization course](https://www.cs.usfca.edu/~apjoshi/cs686-grad-vis) at USF
 5. [Data Visualization Society](https://www.datavisualizationsociety.com/)
+
+
